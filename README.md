@@ -1,4 +1,4 @@
-# template repo for snack.expo.io import repository - [https://github.com/tom2kota/expo-repo-zip](https://github.com/tom2kota/expo-repo-zip)
+# template repo for [snack.expo.io](https://expo.io/snacks/) import repository - [https://github.com/tom2kota/expo-repo-zip](https://github.com/tom2kota/expo-repo-zip)
 
 
 # For localhost usage:
