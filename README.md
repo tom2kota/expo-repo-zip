@@ -21,6 +21,48 @@
     ...
   },
 ```
+
+#### run project
+```
+curl --compressed -o- -L https://yarnpkg.com/install.sh | bash
+yarn install
+yarn upgrade
+yarn upgrade --latest
+
+yarn start || yarn dev
+```
+---------------
+
+
+
+    http://localhost:19002/
+```
+      Starting Metro Bundler on port 19001.
+
+      Building JavaScript bundle: 1%
+```
+
+    http://localhost:19001/
+```
+      React Native packager is running.
+
+      Visit documentation
+```
+---------------
+
+# [Publishing](https://docs.expo.io/workflow/publishing/)
+
+Your URL for a project you’re working on probably looks something like this: exp://i3-kvb.ccheever.an-example.exp.direct:80
+exp.direct is a domain we use for tunneling, so that even if you’re behind a VPN or firewall, any device on the internet that has your URL should be able to access your project. This makes it much easier to open your project on your phone or send it someone else you’re collaborating with who isn’t on the same LAN.
+
+To publish a project, click the **Publish** button in Expo Dev Tools. (It’s in the left side bar.) 
+
+If you're using command line, run ```expo publish```. 
+
+No setup is required, go ahead and create a new project and publish it without any changes and you will see that it works.
+
+
+
 ---------------
 
 # Sample Snack app
