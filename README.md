@@ -53,7 +53,51 @@ If you're using command line, run ```expo publish```.
 
 No setup is required, go ahead and create a new project and publish it without any changes and you will see that it works.
 
+```
+ Metro Bundler
+Info
+17:37
+Starting Metro Bundler on port 19001.
+Info
+17:45
+Building iOS bundle
+Info
+17:49
+Building Android bundle
+Info
+17:49
+Building JavaScript bundle: finished in 242536ms.
+Info
+17:53
+Analyzing assets
+Info
+17:53
+Building JavaScript bundle: finished in 245995ms.
+Info
+17:54
+Building JavaScript bundle: finished in 6484ms.
+Info
+17:54
+Building JavaScript bundle: finished in 4668ms.
+Info
+17:54
+Uploading assets
+Info
+17:54
+No assets changed, skipped.
+Info
+17:54
+Processing asset bundle patterns:
+Info
+17:54
+- /home/kiskass/WebstormProjects/react_24/**/*
+Info
+17:54
+Uploading JavaScript bundles
+```
 
+
+[DEMO](https://expo.io/@tom2kota/expo-repo-zip)
 
 ---------------
 
