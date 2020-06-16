@@ -100,6 +100,29 @@ Uploading JavaScript bundles
 [DEMO](https://expo.io/@tom2kota/expo-repo-zip)
 
 ---------------
+###### [Expo Commands](https://docs.expo.io/workflow/expo-cli/#installation)
+
+```
+expo --version
+
+expo build:web
+
+expo doctor
+
+expo export
+
+npx expo-optimize
+
+expo publish
+
+expo start
+
+expo whoami
+
+```
+
+
+---------------
 
 # Sample Snack app
 
