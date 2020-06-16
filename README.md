@@ -1,18 +1,10 @@
-# template repo for [snack.expo.io](https://expo.io/snacks/) import repository - [https://github.com/tom2kota/expo-repo-zip](https://github.com/tom2kota/expo-repo-zip)
+# template repo for [snack.expo.io](https://expo.io/snacks/) import repository - [https://github.com/tom2kota/expo-repo-zip](https://github.com/tom2kota/expo-repo-zip) - { 0.55Gb }
 
 
 # For localhost usage:
 ```
 // Add to dependencies in package.json
 
-  "dependencies": {
-    ...
-
-    "expo-cli": "~3.21.5",
-    
-    ...
-  },
-  
     "devDependencies": {
     ...
 
